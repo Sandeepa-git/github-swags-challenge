@@ -23,5 +23,6 @@ Welcome to our GitHub learning community! Please add your introduction below fol
 - **Learning Goals:** Master the cloud infrastructure
 - **Fun Fact:**  I can debug code faster than I can decide what to eat
 - **Date Added:** December 30, 2025
+- **T-Shirt Size:** XL
 
 
