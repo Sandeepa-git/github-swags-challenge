@@ -228,3 +228,7 @@ def practice_git(student_name):
 *Keep practicing! The more you use Git, the more comfortable you'll become.* 🌟
 
 **Last updated:** 2025-12-30
+
+<img width="1917" height="1018" alt="Screenshot 2025-12-30 211839" src="https://github.com/user-attachments/assets/a36fdd13-f0d6-421d-9381-572c57e2bc73" />
+
+
