@@ -63,6 +63,11 @@ This file is designed for you to practice making changes, commits, and pull requ
 **Topic:** JavaScript Async/Await  
 **Content:** Learning async/await makes handling asynchronous operations cleaner than using callbacks or promises alone.
 
+### My Contribution 3
+**Added by:** Sandeepa Vimukthi  
+**Topic:** HTML Git Practice  
+**Content:** Adding simple HTML helps visualize learning progress and create interactive examples.
+
 
 
 <!-- 👆 ADD YOUR CONTENT ABOVE THIS LINE 👆 -->
