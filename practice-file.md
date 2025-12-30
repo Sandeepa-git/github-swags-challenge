@@ -54,9 +54,14 @@ This file is designed for you to practice making changes, commits, and pull requ
 <!-- 👇 ADD YOUR CONTENT BELOW THIS LINE 👇 -->
 
 ### My Contribution 1
-**Added by:** Sandeepa Vimukthi  
+**Added by:** Sandeepa Wimalasiri  
 **Topic:** Python File Handling  
 **Content:** Learning file handling in Python helps automate reading and writing data. Using `with open()` ensures files are properly closed, reducing errors and improving code readability.
+
+### My Contribution 2
+**Added by:** Sandeepa Wimalasiri  
+**Topic:** JavaScript Async/Await  
+**Content:** Learning async/await makes handling asynchronous operations cleaner than using callbacks or promises alone.
 
 
 
