@@ -4,10 +4,10 @@ This file is designed for you to practice making changes, commits, and pull requ
 
 ## 🎯 Your Mission
 
-1. **Create a new branch** for your practice session
-2. **Add your own section** below with your favorite programming topics
-3. **Make multiple commits** as you add content
-4. **Practice different Git commands**
+1. **Create a new branch** for your practice session  
+2. **Add your own section** below with your favorite programming topics  
+3. **Make multiple commits** as you add content  
+4. **Practice different Git commands**  
 
 ---
 
@@ -15,60 +15,58 @@ This file is designed for you to practice making changes, commits, and pull requ
 
 ### Web Development
 
-* HTML & CSS fundamentals
-* JavaScript ES6+ features
-* React.js components and hooks
-* Node.js and Express
-* Database design and SQL
+- HTML & CSS fundamentals  
+- JavaScript ES6+ features  
+- React.js components and hooks  
+- Node.js and Express  
+- Database design and SQL  
 
 ### Programming Languages
 
-* Python for beginners
-* Java object-oriented programming
-* C++ data structures
-* Go for microservices
-* Rust for system programming
+- Python for beginners  
+- Java object-oriented programming  
+- C++ data structures  
+- Go for microservices  
+- Rust for system programming  
 
 ### Tools & Technologies
 
-* Git version control
-* Docker containerization
-* CI/CD pipelines
-* Cloud platforms (AWS, Azure, GCP)
-* API design and development
+- Git version control  
+- Docker containerization  
+- CI/CD pipelines  
+- Cloud platforms (AWS, Azure, GCP)  
+- API design and development  
 
 ---
 
 ## ✏️ Your Practice Section
 
-**Instructions:** Add your own content below. You can:
+**Instructions:** Add your own content below. You can:  
 
-* Add your favorite programming language
-* Share a coding tip
-* Write about a project you're working on
-* Add resources you find helpful
+- Add your favorite programming language  
+- Share a coding tip  
+- Write about a project you're working on  
+- Add resources you find helpful  
 
 ### Example Entry
 
-**Added by:** John Doe
-**Topic:** JavaScript Async/Await
+**Added by:** John Doe  
+**Topic:** JavaScript Async/Await  
 **Content:** Learning async/await has made handling asynchronous operations much cleaner than using callbacks or promises alone.
 
 ---
 
-<!-- 👇 ADD YOUR CONTENT BELOW THIS LINE 👇 -->
-
 ### My Contribution 1
 
-**Added by:** Sandeepa Wimalasiri
-**Topic:** Python File Handling
+**Added by:** Sandeepa Wimalasiri  
+**Topic:** Python File Handling  
 **Content:** Learning file handling in Python helps automate reading and writing data. Using `with open()` ensures files are properly closed, reducing errors and improving code readability.
 
 ```python
 # Python example
 with open('example.txt', 'w') as f:
     f.write("Hello Git practice!")
-```
+````
 
 ### My Contribution 2
 
@@ -116,13 +114,9 @@ function Counter() {
 }
 ```
 
-<!-- 👆 ADD YOUR CONTENT ABOVE THIS LINE 👆 -->
-
 ---
 
 ## 🎪 Fun Challenges
-
-Try these Git challenges while working on this file:
 
 ### Challenge 1: Multiple Commits
 
@@ -171,8 +165,6 @@ Keep track of your practice:
 
 ## 🎯 Code Snippets Practice
 
-Feel free to add code snippets in different languages:
-
 ### JavaScript
 
 ```javascript
@@ -203,8 +195,6 @@ def practice_git(student_name):
 
 ## 🔄 Git Command Practice
 
-Document the commands you've learned:
-
 **Commands I've mastered:**
 
 * [ ] `git clone`
@@ -227,8 +217,6 @@ Document the commands you've learned:
 ---
 
 ## 💡 Tips and Tricks
-
-Share your Git tips here:
 
 1. **Tip:** Always check `git status` before committing
 2. **Tip:** Use descriptive branch names
