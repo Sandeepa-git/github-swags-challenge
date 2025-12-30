@@ -53,10 +53,12 @@ This file is designed for you to practice making changes, commits, and pull requ
 
 <!-- 👇 ADD YOUR CONTENT BELOW THIS LINE 👇 -->
 
-### My Contribution
-**Added by:** [Your Name]  
-**Topic:** [Your Topic]  
-**Content:** [Your content here]
+### My Contribution 1
+**Added by:** Sandeepa Vimukthi  
+**Topic:** Python File Handling  
+**Content:** Learning file handling in Python helps automate reading and writing data. Using `with open()` ensures files are properly closed, reducing errors and improving code readability.
+
+
 
 <!-- 👆 ADD YOUR CONTENT ABOVE THIS LINE 👆 -->
 
