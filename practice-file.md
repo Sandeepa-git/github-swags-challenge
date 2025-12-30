@@ -14,39 +14,44 @@ This file is designed for you to practice making changes, commits, and pull requ
 ## 🚀 Coding Topics to Explore
 
 ### Web Development
-- HTML & CSS fundamentals
-- JavaScript ES6+ features
-- React.js components and hooks
-- Node.js and Express
-- Database design and SQL
+
+* HTML & CSS fundamentals
+* JavaScript ES6+ features
+* React.js components and hooks
+* Node.js and Express
+* Database design and SQL
 
 ### Programming Languages
-- Python for beginners
-- Java object-oriented programming
-- C++ data structures
-- Go for microservices
-- Rust for system programming
+
+* Python for beginners
+* Java object-oriented programming
+* C++ data structures
+* Go for microservices
+* Rust for system programming
 
 ### Tools & Technologies
-- Git version control
-- Docker containerization
-- CI/CD pipelines
-- Cloud platforms (AWS, Azure, GCP)
-- API design and development
+
+* Git version control
+* Docker containerization
+* CI/CD pipelines
+* Cloud platforms (AWS, Azure, GCP)
+* API design and development
 
 ---
 
 ## ✏️ Your Practice Section
 
 **Instructions:** Add your own content below. You can:
-- Add your favorite programming language
-- Share a coding tip
-- Write about a project you're working on
-- Add resources you find helpful
+
+* Add your favorite programming language
+* Share a coding tip
+* Write about a project you're working on
+* Add resources you find helpful
 
 ### Example Entry
-**Added by:** John Doe  
-**Topic:** JavaScript Async/Await  
+
+**Added by:** John Doe
+**Topic:** JavaScript Async/Await
 **Content:** Learning async/await has made handling asynchronous operations much cleaner than using callbacks or promises alone.
 
 ---
@@ -54,21 +59,62 @@ This file is designed for you to practice making changes, commits, and pull requ
 <!-- 👇 ADD YOUR CONTENT BELOW THIS LINE 👇 -->
 
 ### My Contribution 1
-**Added by:** Sandeepa Wimalasiri  
-**Topic:** Python File Handling  
+
+**Added by:** Sandeepa Wimalasiri
+**Topic:** Python File Handling
 **Content:** Learning file handling in Python helps automate reading and writing data. Using `with open()` ensures files are properly closed, reducing errors and improving code readability.
 
+```python
+# Python example
+with open('example.txt', 'w') as f:
+    f.write("Hello Git practice!")
+```
+
 ### My Contribution 2
-**Added by:** Sandeepa Wimalasiri  
-**Topic:** JavaScript Async/Await  
+
+**Added by:** Sandeepa Wimalasiri
+**Topic:** JavaScript Async/Await
 **Content:** Learning async/await makes handling asynchronous operations cleaner than using callbacks or promises alone.
 
+```javascript
+// JavaScript example
+async function greetLearner(name) {
+    return `Hello ${name}, keep learning Git!`;
+}
+```
+
 ### My Contribution 3
-**Added by:** Sandeepa Vimukthi  
-**Topic:** HTML Git Practice  
+
+**Added by:** Sandeepa Wimalasiri
+**Topic:** HTML Git Practice
 **Content:** Adding simple HTML helps visualize learning progress and create interactive examples.
 
+```html
+<!-- HTML example -->
+<div class="git-practice">
+    <h1>Learning Git is Fun!</h1>
+</div>
+```
 
+### My Contribution 4
+
+**Added by:** Sandeepa Wimalasiri
+**Topic:** React Hooks - useState
+**Content:** The `useState` hook in React allows functional components to manage state easily without using class components.
+
+```javascript
+import { useState } from 'react';
+
+function Counter() {
+  const [count, setCount] = useState(0);
+  return (
+    <div>
+      <p>Count: {count}</p>
+      <button onClick={() => setCount(count + 1)}>Increment</button>
+    </div>
+  );
+}
+```
 
 <!-- 👆 ADD YOUR CONTENT ABOVE THIS LINE 👆 -->
 
@@ -79,25 +125,33 @@ This file is designed for you to practice making changes, commits, and pull requ
 Try these Git challenges while working on this file:
 
 ### Challenge 1: Multiple Commits
-- Make 3 separate commits for 3 different additions
-- Each commit should have a descriptive message
+
+* Make 4 separate commits for each contribution
+* Each commit should have a descriptive message
 
 ### Challenge 2: Branch Naming
-- Create branches with meaningful names like:
-  - `feature/add-python-section`
-  - `update/improve-readme`
-  - `fix/typo-correction`
+
+* Create branches with meaningful names like:
+
+  * `feature/add-python-section`
+  * `feature/add-js-async`
+  * `feature/add-html-example`
+  * `feature/add-react-hooks`
 
 ### Challenge 3: Commit Message Practice
+
 Good commit messages:
-- `Add section about React hooks`
-- `Fix typo in JavaScript section`
-- `Update resources with new learning materials`
+
+* `Add section about Python file handling`
+* `Add JavaScript async/await example`
+* `Add HTML code snippet`
+* `Add React useState hook example`
 
 Bad commit messages:
-- `changes`
-- `update`
-- `fix`
+
+* `changes`
+* `update`
+* `fix`
 
 ---
 
@@ -105,13 +159,13 @@ Bad commit messages:
 
 Keep track of your practice:
 
-- [ ] Created your first branch
-- [ ] Made your first commit  
-- [ ] Added content to this file
-- [ ] Used `git status` command
-- [ ] Used `git log` command
-- [ ] Pushed your branch
-- [ ] Created a pull request
+* [ ] Created your first branch
+* [ ] Made your first commit
+* [ ] Added content to this file
+* [ ] Used `git status` command
+* [ ] Used `git log` command
+* [ ] Pushed your branch
+* [ ] Created a pull request
 
 ---
 
@@ -120,6 +174,7 @@ Keep track of your practice:
 Feel free to add code snippets in different languages:
 
 ### JavaScript
+
 ```javascript
 // Your JavaScript code here
 function greetLearner(name) {
@@ -128,6 +183,7 @@ function greetLearner(name) {
 ```
 
 ### Python
+
 ```python
 # Your Python code here
 def practice_git(student_name):
@@ -135,6 +191,7 @@ def practice_git(student_name):
 ```
 
 ### HTML
+
 ```html
 <!-- Your HTML code here -->
 <div class="git-practice">
@@ -149,21 +206,23 @@ def practice_git(student_name):
 Document the commands you've learned:
 
 **Commands I've mastered:**
-- [ ] `git clone`
-- [ ] `git branch`
-- [ ] `git checkout`
-- [ ] `git add`
-- [ ] `git commit`
-- [ ] `git push`
-- [ ] `git pull`
-- [ ] `git status`
-- [ ] `git log`
+
+* [ ] `git clone`
+* [ ] `git branch`
+* [ ] `git checkout`
+* [ ] `git add`
+* [ ] `git commit`
+* [ ] `git push`
+* [ ] `git pull`
+* [ ] `git status`
+* [ ] `git log`
 
 **Commands I want to learn:**
-- [ ] `git rebase`
-- [ ] `git merge`
-- [ ] `git stash`
-- [ ] `git cherry-pick`
+
+* [ ] `git rebase`
+* [ ] `git merge`
+* [ ] `git stash`
+* [ ] `git cherry-pick`
 
 ---
 
@@ -174,10 +233,10 @@ Share your Git tips here:
 1. **Tip:** Always check `git status` before committing
 2. **Tip:** Use descriptive branch names
 3. **Tip:** Write commit messages in present tense
-4. **Your tip here:** [Add your own tip]
+4. **Tip:** Make small, frequent commits to track progress easily
 
 ---
 
 *Keep practicing! The more you use Git, the more comfortable you'll become.* 🌟
 
-**Last updated:** [Add date when you modify this file]
+**Last updated:** 2025-12-30
